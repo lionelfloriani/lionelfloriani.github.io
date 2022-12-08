@@ -32,4 +32,6 @@ Working as a team, I value :
 -   Communication
 -   Group cohesion
 
+One of my favorite GIF is the following one :
+
 ![](/im-sorry-what.gif)
