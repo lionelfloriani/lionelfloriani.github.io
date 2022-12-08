@@ -1,0 +1,46 @@
+main {
+    background: #fffffe;
+    color: #e45858;
+}
+
+.icons-social a {
+    color: #e45858;
+}
+
+.icons-social a svg path {
+    fill: #e45858;
+}
+
+.becode:hover {
+    color: red;
+}
+
+a:visited {
+    color: #e45858;
+}
+
+a {
+    color: #e45858;
+}
+
+.secondLine {
+    color: #6146ea;
+}
+
+.escapeCara {
+    color: #6246ea;
+    font-family: "Reem Kufi", sans-serif;
+}
+
+.at {
+    font-family: "Reem Kufi", sans-serif;
+    display: inline-block;
+}
+
+i:hover {
+    color: #6246ea;
+}
+
+.lf {
+    color: #6246ea;
+}
