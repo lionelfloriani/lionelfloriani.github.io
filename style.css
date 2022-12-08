@@ -257,7 +257,9 @@ i {
 input[type="checkbox"] {
     height: 0;
     width: 0;
-    position: absolute;
+    position: relative;
+    justify-self: center;
+    align-self: center;
 }
 
 label {
@@ -267,9 +269,9 @@ label {
     height: 25px;
     background: #6246ea;
     border-radius: 25px;
-    position: absolute;
-    top: 30px;
-    left: 1350px;
+    position: relative;
+    align-self: center;
+    margin-top: 25px;
 }
 
 label:after {
