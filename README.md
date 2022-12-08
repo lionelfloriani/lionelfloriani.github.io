@@ -20,7 +20,7 @@ TOP3 things I like the most in the universe :
 
 ---
 
-One of my main goal as a student/developer @BeCode is to gain a lot of skills. I want to be the best version of myself. I really like coding; I'm super excited to be here at BeCode and find a job in IT !
+One of my main goal as a student/developer @ **BeCode** is to gain a lot of skills. I want to be the best version of myself. I really like coding; I'm super excited to be here at **BeCode** and find a job in IT !
 
 I'm a bit afraid of the pace that we will have to follow during those 7 months of formation. But I guess we will get used to it pretty fast.
 
@@ -32,6 +32,6 @@ Working as a team, I value :
 -   Communication
 -   Group cohesion
 
-One of my favorite GIF is the following one :
+One of my favorite GIF :
 
 ![](/im-sorry-what.gif)
