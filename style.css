@@ -129,128 +129,149 @@ i {
 
 .emoji {
     display: inline-block;
-    animation: tilt-shaking 4s infinite;
+    animation: tilt-shaking 8s infinite;
     animation-delay: 2s;
 }
 
 @keyframes tilt-shaking {
-    0% {
-        transform: rotate(0deg);
-    }
-    2% {
-        transform: rotate(1deg);
-    }
-    4% {
-        transform: rotate(2deg);
-    }
-    6% {
-        transform: rotate(3deg);
-    }
-    8% {
-        transform: rotate(2deg);
-    }
-    10% {
-        transform: rotate(1deg);
-    }
-    12% {
-        transform: rotate(0deg);
-    }
-    14% {
-        transform: rotate(-1deg);
-    }
-    16% {
-        transform: rotate(-2deg);
-    }
-    18% {
-        transform: rotate(-3deg);
-    }
-    20% {
-        transform: rotate(-2deg);
-    }
-    22% {
-        transform: rotate(-1deg);
-    }
-    24% {
-        transform: rotate(0deg);
-    }
-    26% {
-        transform: rotate(1deg);
-    }
-    28% {
-        transform: rotate(2deg);
-    }
-    30% {
-        transform: rotate(3deg);
-    }
-    32% {
-        transform: rotate(2deg);
-    }
-    34% {
-        transform: rotate(1deg);
-    }
-    36% {
-        transform: rotate(0deg);
-    }
-    38% {
-        transform: rotate(-1deg);
-    }
-    40% {
-        transform: rotate(-2deg);
-    }
-    42% {
-        transform: rotate(-3deg);
-    }
-    44% {
-        transform: rotate(-2deg);
-    }
-    46% {
-        transform: rotate(-1deg);
-    }
-    48% {
-        transform: rotate(0deg);
-    }
-    50% {
-        transform: rotate(1deg);
-    }
-    52% {
-        transform: rotate(2deg);
-    }
-    54% {
-        transform: rotate(3deg);
-    }
-    56% {
-        transform: rotate(2deg);
-    }
-    58% {
-        transform: rotate(1deg);
-    }
-    60% {
-        transform: rotate(0deg);
-    }
-    62% {
-        transform: rotate(-1deg);
-    }
-    64% {
-        transform: rotate(-2deg);
-    }
-    66% {
-        transform: rotate(-3deg);
-    }
-    68% {
-        transform: rotate(-2deg);
-    }
-    70% {
-        transform: rotate(-1deg);
-    }
-    72% {
-        transform: rotate(0deg);
-    }
-    74% {
-        transform: rotate(0deg);
-    }
-    76%,
+    0%,
+    10%,
+    20%,
+    30%,
+    40%,
+    50%,
+    60%,
+    70%,
+    80%,
+    90%,
     100% {
         transform: rotate(0deg);
+    }
+    1%,
+    21%,
+    41%,
+    61%,
+    81% {
+        transform: rotate(1deg);
+    }
+    2%,
+    22%,
+    42%,
+    62%,
+    82% {
+        transform: rotate(2deg);
+    }
+    3%,
+    23%,
+    43%,
+    63%,
+    83% {
+        transform: rotate(3deg);
+    }
+    4%,
+    24%,
+    44%,
+    64%,
+    84% {
+        transform: rotate(4deg);
+    }
+    5%,
+    25%,
+    45%,
+    65%,
+    85% {
+        transform: rotate(5deg);
+    }
+    6%,
+    26%,
+    46%,
+    66%,
+    86% {
+        transform: rotate(4deg);
+    }
+    7%,
+    27%,
+    47%,
+    67%,
+    87% {
+        transform: rotate(3deg);
+    }
+    8%,
+    28%,
+    48%,
+    68%,
+    88% {
+        transform: rotate(2deg);
+    }
+    9%,
+    29%,
+    49%,
+    69%,
+    89% {
+        transform: rotate(1deg);
+    }
+    11%,
+    31%,
+    51%,
+    71%,
+    91% {
+        transform: rotate(-1deg);
+    }
+    12%,
+    32%,
+    52%,
+    72%,
+    92% {
+        transform: rotate(-2deg);
+    }
+    13%,
+    33%,
+    53%,
+    73%,
+    93% {
+        transform: rotate(-3deg);
+    }
+    14%,
+    34%,
+    54%,
+    74%,
+    94% {
+        transform: rotate(-4deg);
+    }
+    15%,
+    35%,
+    55%,
+    75%,
+    95% {
+        transform: rotate(-5deg);
+    }
+    16%,
+    36%,
+    56%,
+    76%,
+    96% {
+        transform: rotate(-4deg);
+    }
+    17%,
+    37%,
+    57%,
+    77%,
+    97% {
+        transform: rotate(-3deg);
+    }
+    18%,
+    38%,
+    58%,
+    78%,
+    98% {
+        transform: rotate(-2deg);
+    }
+    19%,
+    39%,
+    59%,
+    79%,
+    99% {
+        transform: rotate(-1deg);
     }
 }
 
