@@ -4,7 +4,7 @@ main {
 }
 
 .icons-social a {
-    color: #fc483c;
+    color: #347afd !important;
 }
 
 .becode:hover {
@@ -34,7 +34,7 @@ a {
 }
 
 i:hover {
-    color: #347afd !important;
+    color: #fc483c !important;
 }
 
 .lf {
